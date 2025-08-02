@@ -11,8 +11,7 @@ A clean React Native UI component for capturing patient PHI (Protected Health In
 ## Tech Stack
 - React Native (Expo)
 
-## Screenshots
-_(Add screenshots here later)_
+
 
 ## Getting Started
 
